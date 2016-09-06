@@ -45,3 +45,6 @@ nosetests.xml
 
 dev.sqlite
 .idea/
+
+# Virtualenv
+.venv
