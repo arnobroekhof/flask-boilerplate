@@ -8,3 +8,5 @@ LOGGING_FORMAT = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 # Database settings
 SQLALCHEMY_TRACK_MODIFICATIONS = True
 SQLALCHEMY_DATABASE_URI = 'sqlite:///dev.sqlite'
+
+KRB5_KTNAME = '/kerberos/file.keytab'
